@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#e11d2e",
   customEmoji: true,  // true = use custom emoji IDs from emoji.js, false = use default unicode
   emojiTheme: "redwhite", // active custom emoji theme key in emoji.js
-  helpBannerUrl: "https://i.ibb.co/GfTxbJfC/7-edited.png", // Optional: set a direct image URL to show an inline banner in /help
+  helpBannerUrl: "https://ibb.co/QvrC6tXZ", // Optional: set a direct image URL to show an inline banner in /help
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
